@@ -8,7 +8,7 @@
 I'm an ML enthusiast and Information Systems graduate student at Northeastern University with a background in Instrumentation & Control Engineering. My passion lies at the intersection of AI, NLP, and developing systems that solve real-world problems.
 
 - 🔭 Currently pursuing my **Master's in Information Systems** at Northeastern University
-- 🌱 Learning about **High Performance Computing and Parallel Machine Learning**
+- 🌱 Learning about **Generative AI**
 - 👨‍💻 Former ML Intern at **F(x) is AI** and Research Intern at **IIT Delhi**
 - 🤖 Experienced with various LLMs including **Gemini, Llama, GPT, Mistral, and DeepSeek**
 - 💡 Interested in **Natural Language Processing, Machine Learning, and AI Applications**
